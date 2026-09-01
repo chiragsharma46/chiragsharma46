@@ -10,7 +10,7 @@ I am interested in developing applications that combine **intelligent systems wi
 
 **Languages:** Java, Python, JavaScript
 
-**Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 
 **AI/ML:** Python, Machine Learning Fundamentals, Data Preprocessing, Exploratory Data Analysis, Model Training and Evaluation
 
@@ -22,7 +22,7 @@ I am interested in developing applications that combine **intelligent systems wi
 
 * Machine Learning and Artificial Intelligence
 * Python for Data Science and ML
-* Frontend Development with JavaScript and React
+* Frontend Development with JavaScript 
 * Building practical, real-world applications
 * Improving software development and problem-solving skills
 
