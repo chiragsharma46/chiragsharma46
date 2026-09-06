@@ -32,7 +32,7 @@ I'm a Computer Science & Engineering undergraduate at **Galgotias University**.
 
 * LinkedIn: https://www.linkedin.com/in/chirag-sharma-3108a2297/
 * Email: chiragsharma6678@gmail.com
-* Instagram: https://www.instagram.com/cs_tech_creator__/
+* Instagram: https://www.instagram.com/cs_tech_creator__
 
 ---
 
