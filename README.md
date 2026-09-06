@@ -5,7 +5,7 @@
 I'm a Computer Science & Engineering undergraduate at **Galgotias University**.
 
 * 🎓 B.Tech in Computer Science & Engineering
-* 📊 CGPA: **8.65 / 10**
+* 📊 CGPA: **8.75 / 10**
 * 💻 Interested in **Java, AI & Machine Learning**
 * 🌱 Currently improving my programming and development skills
 * 🎯 Preparing for **2026–27 placements**
