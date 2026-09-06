@@ -1,170 +1,73 @@
-Hi, I'm Chirag Sharma 👋
+<h1 align="center">Hi there, I'm Chirag Sharma.</h1>
+
+<h3 align="center">Software Engineering Student | Java Developer | Full-Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+AI%2FML+Developer;Building+Practical+Software+with+AI;Learning%2C+Building%2C+Improving+Every+Day" alt="Typing SVG" />
+  I am an undergraduate student in Computing Science and Engineering at Galgotias University, actively seeking placement opportunities for the Class of 2026. I specialize in Data Structures and Algorithms (Java) and building responsive web and mobile applications. 
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="700" alt="coding animation">
-</p>
+---
 
-<p align="center">
-  <b>Computer Science & Engineering • Java • AI/ML • Software Development</b>
-</p>
+### 👨‍💻 About Me
 
-🧑‍💻 About Me
+*   🎓 **Education:** B.Tech in Computing Science & Engineering at Galgotias University (Graduating 2026).
+*   💼 **Upcoming Role:** Virtual Intern (Java Domain) at **Infosys Springboard** (Starting Sept 2026).
+*   🌱 **Currently Learning:** Advanced DSA, scalable backend architecture, and refining my React.js skills.
+*   🔬 **Research & Projects:** Registered for real-time industry projects under the **HCLTech Centre of Excellence AI framework**.
+*   🤝 **Mentorship:** Served as a mentor for school student teams developing social impact projects under the **HCL Jigsaw** initiative.
+*   📫 **How to reach me:** [your-email@example.com](mailto:your-email@example.com)
 
-I’m a Computer Science & Engineering professional focused on Java development, Artificial Intelligence, and Machine Learning.
+---
 
-I enjoy turning ideas into working projects, learning technologies by building with them, and improving my problem-solving skills through hands-on practice.
+### 🛠️ Tech Stack & Tools
 
-🔭 Currently building projects around AI/ML and Java
+**Languages & Core Concepts**
+*   Java (Core & Advanced)
+*   JavaScript (ES6+)
+*   Data Structures & Algorithms (DSA)
+*   Object-Oriented Programming (OOP)
 
-🌱 Strengthening my knowledge of Machine Learning, Python, and software development
+**Web & Mobile Development**
+*   React.js
+*   HTML5 / CSS3
+*   Android Studio
 
-☕ Comfortable working with Java and object-oriented programming
+**Familiarity & Interests**
+*   Cybersecurity & Cryptography principles
+*   Git & GitHub Version Control
 
-🧠 Interested in practical AI solutions and intelligent applications
+---
 
-🛠️ I learn best by building, debugging, and experimenting
+### 🏆 Hackathons & Competitions
 
-🎯 Career goal: grow into a strong Software / AI-ML Engineer
+I love building solutions under pressure and collaborating with teams. Some of my recent participations include:
+*   **Adobe University Hackathon** (2025 & 2026)
+*   **Code Nakshatra 24-Hour Hackathon** – TIIPS, Greater Noida (March 2025)
+*   **Road Safety Hackathon** – Collaborated on pedestrian crossing challenges with NHAI (Jan 2025)
 
-📚 Always working on becoming better at communication, coding, and technical fundamentals
+---
 
-🚀 Tech Stack
+### 📈 GitHub Stats
 
-Languages
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" alt="Languages" />
-</p>
+<!-- Replace "YOUR_GITHUB_USERNAME" in the image links above with your actual GitHub handle -->
 
-AI / Machine Learning
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-</p>
-
-Focus Areas: Machine Learning • Data Analysis • Predictive Modeling • Explainable AI • AI-powered Applications
-
-Backend & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql" alt="Backend and Database" />
-</p>
-
-Also working with: Spring Boot • REST APIs • MySQL • Java-based application development
-
-Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" alt="Tools" />
-</p>
-
-💼 Featured Projects
-
-💰 FinFlow — Personal Finance Dashboard
-
-A responsive finance dashboard designed to help users manage and understand their transactions.
-
-Highlights
-
-Transaction management
-
-Search, filtering, and sorting
-
-Interactive financial charts
-
-Dark / light theme support
-
-Local storage persistence
-
-Role-based access simulation
-
-Built with: HTML • CSS • JavaScript
-
-🤖 AI / ML Research Project
-
-Currently exploring an Explainable AI approach for financial risk prediction, with a focus on making machine-learning decisions easier to understand and trust.
-
-Core ideas
-
-Financial risk prediction
-
-Machine learning models
-
-Feature importance
-
-Model interpretability
-
-Explainable AI techniques
-
-Built with: Python • Machine Learning • Data Analysis
-
-💱 Currency Converter
-
-A simple utility application for converting currencies through a clean and responsive interface.
-
-Built with: HTML • CSS • JavaScript
-
-📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
-📈 What I'm Working On
-
-Java Development        ███████████████░░░  80%
-Machine Learning        ████████████░░░░░░  65%
-Python for AI/ML        █████████████░░░░░  70%
-Web Development         ██████████████░░░░  75%
-Data Structures          ██████████░░░░░░░░  55%
-Communication            █████████░░░░░░░░░  50%
-
-🧩 My Current Learning Path
-
-Java → Data & Python → Machine Learning → Explainable AI → AI-powered Applications
-
-I’m focusing on understanding concepts properly instead of collecting technologies just for the sake of adding them to a resume.
-
-🏆 Goals
-
-Build production-style Java applications
-
-Develop meaningful AI/ML projects
-
-Write stronger technical documentation
-
-Improve problem-solving and coding consistency
-
-Create projects that demonstrate real engineering skills
-
-Prepare for software and AI/ML engineering opportunities
-
-🌐 Connect With Me
+### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-</p>
-
-👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-
-<p align="center">
-  <i>“Build it. Break it. Understand it. Improve it.”</i>
+  <a href="https://youtube.com/@YOUR_YOUTUBE_CHANNEL" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
 </p>
